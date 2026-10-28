@@ -1,5 +1,5 @@
 homepage: "https://www.myconcurrence.com"
 documentation: "https://github.com/MyConcurrence/gtm-consent-template"
 versions:
-  - sha: 333c9011af57a37886357308fcb904298c7e023d
+  - sha: ad9fa09eee79e215c91b04aa9c0d57ccd8c5bea0
     changeNotes: Initial Concurrence CMP consent mode template.
